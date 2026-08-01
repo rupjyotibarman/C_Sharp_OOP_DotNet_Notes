@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\learning_linq\\linqpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|solutionrelative:linqpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\learning_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\learning_linq\\learning_linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|solutionrelative:learning_linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\learning_linq\\groupby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|solutionrelative:groupby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\learning_linq\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|solutionrelative:sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\learning_linq\\selectmany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|solutionrelative:selectmany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\learning_linq\\whereselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|solutionrelative:whereselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\learning_linq\\wherepractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|solutionrelative:wherepractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|d:\\selflearning\\dotnetdevelopmentnotes\\learning_linq\\selectpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB9689-C230-4083-A4DB-1EF383E9D28D}|Learning_Linq.csproj|solutionrelative:selectpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinqPractice.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\LinqPractice.cs",
+              "RelativeDocumentMoniker": "LinqPractice.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\LinqPractice.cs",
+              "RelativeToolTip": "LinqPractice.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAywEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T18:41:04.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Learning_Linq",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\Learning_Linq.csproj",
+              "RelativeDocumentMoniker": "Learning_Linq.csproj",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\Learning_Linq.csproj",
+              "RelativeToolTip": "Learning_Linq.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-26T18:40:43.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupBy.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\GroupBy.cs",
+              "RelativeDocumentMoniker": "GroupBy.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\GroupBy.cs",
+              "RelativeToolTip": "GroupBy.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T14:30:17.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WhereSelect.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\WhereSelect.cs",
+              "RelativeDocumentMoniker": "WhereSelect.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\WhereSelect.cs",
+              "RelativeToolTip": "WhereSelect.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T08:46:03.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectPractice.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\SelectPractice.cs",
+              "RelativeDocumentMoniker": "SelectPractice.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\SelectPractice.cs",
+              "RelativeToolTip": "SelectPractice.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T07:32:28.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WherePractice.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\WherePractice.cs",
+              "RelativeDocumentMoniker": "WherePractice.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\WherePractice.cs",
+              "RelativeToolTip": "WherePractice.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T06:36:37.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T07:43:16.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectMany.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\SelectMany.cs",
+              "RelativeDocumentMoniker": "SelectMany.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\SelectMany.cs",
+              "RelativeToolTip": "SelectMany.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwFUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T09:06:17.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\Sort.cs",
+              "RelativeDocumentMoniker": "Sort.cs",
+              "ToolTip": "D:\\SelfLearning\\DotNetDevelopmentNotes\\Learning_Linq\\Sort.cs",
+              "RelativeToolTip": "Sort.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAywF4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T11:34:21.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\bin\Debug\net9.0\LearningOOP.exe
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\bin\Debug\net9.0\LearningOOP.deps.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\bin\Debug\net9.0\LearningOOP.runtimeconfig.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\bin\Debug\net9.0\LearningOOP.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\bin\Debug\net9.0\LearningOOP.pdb
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\obj\Debug\net9.0\LearningOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\obj\Debug\net9.0\LearningOOP.AssemblyInfoInputs.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\obj\Debug\net9.0\LearningOOP.AssemblyInfo.cs
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\obj\Debug\net9.0\LearningOOP.csproj.CoreCompileInputs.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\obj\Debug\net9.0\LearningOOP.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\obj\Debug\net9.0\refint\LearningOOP.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\obj\Debug\net9.0\LearningOOP.pdb
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\obj\Debug\net9.0\LearningOOP.genruntimeconfig.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticeCSharpOOP\LearningOOP\obj\Debug\net9.0\ref\LearningOOP.dll

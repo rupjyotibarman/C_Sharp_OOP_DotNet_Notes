@@ -1,0 +1,14 @@
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\bin\Debug\net6.0\App1Starting.exe
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\bin\Debug\net6.0\App1Starting.deps.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\bin\Debug\net6.0\App1Starting.runtimeconfig.json
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\bin\Debug\net6.0\App1Starting.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\bin\Debug\net6.0\App1Starting.pdb
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\obj\Debug\net6.0\App1Starting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\obj\Debug\net6.0\App1Starting.AssemblyInfoInputs.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\obj\Debug\net6.0\App1Starting.AssemblyInfo.cs
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\obj\Debug\net6.0\App1Starting.csproj.CoreCompileInputs.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\obj\Debug\net6.0\App1Starting.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\obj\Debug\net6.0\refint\App1Starting.dll
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\obj\Debug\net6.0\App1Starting.pdb
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\obj\Debug\net6.0\App1Starting.genruntimeconfig.cache
+D:\SelfLearning\DotNetDevelopmentNotes\PracticalProjects\App1Starting\obj\Debug\net6.0\ref\App1Starting.dll
