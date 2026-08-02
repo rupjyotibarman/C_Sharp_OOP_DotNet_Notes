@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\LearnMultithreading\\Practice1\\MultiThreading1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A1E45C-BBA0-457D-B981-9BEEFEA36DE1}|MultiThreading1.csproj|c:\\users\\baru590\\documents\\selflearning\\learnmultithreading\\practice1\\multithreading1\\asyncawait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A1E45C-BBA0-457D-B981-9BEEFEA36DE1}|MultiThreading1.csproj|solutionrelative:asyncawait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A1E45C-BBA0-457D-B981-9BEEFEA36DE1}|MultiThreading1.csproj|c:\\users\\baru590\\documents\\selflearning\\learnmultithreading\\practice1\\multithreading1\\mthread6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A1E45C-BBA0-457D-B981-9BEEFEA36DE1}|MultiThreading1.csproj|solutionrelative:mthread6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A1E45C-BBA0-457D-B981-9BEEFEA36DE1}|MultiThreading1.csproj|c:\\users\\baru590\\documents\\selflearning\\learnmultithreading\\practice1\\multithreading1\\mthread5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A1E45C-BBA0-457D-B981-9BEEFEA36DE1}|MultiThreading1.csproj|solutionrelative:mthread5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A1E45C-BBA0-457D-B981-9BEEFEA36DE1}|MultiThreading1.csproj|c:\\users\\baru590\\documents\\selflearning\\learnmultithreading\\practice1\\multithreading1\\mthread3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A1E45C-BBA0-457D-B981-9BEEFEA36DE1}|MultiThreading1.csproj|solutionrelative:mthread3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A1E45C-BBA0-457D-B981-9BEEFEA36DE1}|MultiThreading1.csproj|c:\\users\\baru590\\documents\\selflearning\\learnmultithreading\\practice1\\multithreading1\\mthread4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A1E45C-BBA0-457D-B981-9BEEFEA36DE1}|MultiThreading1.csproj|solutionrelative:mthread4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsyncAwait.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\LearnMultithreading\\Practice1\\MultiThreading1\\AsyncAwait.cs",
+              "RelativeDocumentMoniker": "AsyncAwait.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\LearnMultithreading\\Practice1\\MultiThreading1\\AsyncAwait.cs",
+              "RelativeToolTip": "AsyncAwait.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:13:19.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MThread6.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\LearnMultithreading\\Practice1\\MultiThreading1\\MThread6.cs",
+              "RelativeDocumentMoniker": "MThread6.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\LearnMultithreading\\Practice1\\MultiThreading1\\MThread6.cs",
+              "RelativeToolTip": "MThread6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:28:14.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MThread5.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\LearnMultithreading\\Practice1\\MultiThreading1\\MThread5.cs",
+              "RelativeDocumentMoniker": "MThread5.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\LearnMultithreading\\Practice1\\MultiThreading1\\MThread5.cs",
+              "RelativeToolTip": "MThread5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:34:06.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MThread4.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\LearnMultithreading\\Practice1\\MultiThreading1\\MThread4.cs",
+              "RelativeDocumentMoniker": "MThread4.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\LearnMultithreading\\Practice1\\MultiThreading1\\MThread4.cs",
+              "RelativeToolTip": "MThread4.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:44:01.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MThread3.cs",
+              "DocumentMoniker": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\LearnMultithreading\\Practice1\\MultiThreading1\\MThread3.cs",
+              "RelativeDocumentMoniker": "MThread3.cs",
+              "ToolTip": "C:\\Users\\BaRu590\\Documents\\SelfLearning\\LearnMultithreading\\Practice1\\MultiThreading1\\MThread3.cs",
+              "RelativeToolTip": "MThread3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:19:09.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

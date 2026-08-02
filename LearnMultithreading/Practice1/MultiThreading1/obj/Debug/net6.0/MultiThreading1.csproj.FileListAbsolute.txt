@@ -1,0 +1,14 @@
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\bin\Debug\net6.0\MultiThreading1.exe
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\bin\Debug\net6.0\MultiThreading1.deps.json
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\bin\Debug\net6.0\MultiThreading1.runtimeconfig.json
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\bin\Debug\net6.0\MultiThreading1.dll
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\bin\Debug\net6.0\MultiThreading1.pdb
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\obj\Debug\net6.0\MultiThreading1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\obj\Debug\net6.0\MultiThreading1.AssemblyInfoInputs.cache
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\obj\Debug\net6.0\MultiThreading1.AssemblyInfo.cs
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\obj\Debug\net6.0\MultiThreading1.csproj.CoreCompileInputs.cache
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\obj\Debug\net6.0\MultiThreading1.dll
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\obj\Debug\net6.0\refint\MultiThreading1.dll
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\obj\Debug\net6.0\MultiThreading1.pdb
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\obj\Debug\net6.0\MultiThreading1.genruntimeconfig.cache
+C:\Users\BaRu590\Documents\SelfLearning\LearnMultithreading\Practice1\MultiThreading1\obj\Debug\net6.0\ref\MultiThreading1.dll
